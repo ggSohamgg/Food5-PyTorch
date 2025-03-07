@@ -4,8 +4,8 @@
 
 # 🍔 Food Classification Model
 
-This is a deep learning model for food image classification, trained using PyTorch on a custom dataset.
--Deployment - https://huggingface.co/spaces/nnsohamnn/foodmodel
+- This is a deep learning model for food image classification, trained using PyTorch on a custom dataset.
+- Deployment - https://huggingface.co/spaces/nnsohamnn/foodmodel
 
 ## 🚀 Features
 - Uses a **MobileNetV2** model for fast classification.

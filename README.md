@@ -9,8 +9,8 @@ Food5-PyTorch
 - Available on Hugging Face: Food Model
 
 🔹 Features
-✅ Uses MobileNetV2 for fast and efficient classification.
-✅ Trained on 5 food categories.
+-✅ Uses MobileNetV2 for fast and efficient classification.
+-✅ Trained on 5 food categories.
 
 📊 Training Results
 - Here’s the model's performance over 10 epochs:

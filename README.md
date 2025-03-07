@@ -4,8 +4,10 @@ Food5-PyTorch
 
 📌 Dataset
 - The model is trained on a subset of the Food-101 dataset.
+
 🚀 Deployment
 - Available on Hugging Face: Food Model
+
 🔹 Features
 ✅ Uses MobileNetV2 for fast and efficient classification.
 ✅ Trained on 5 food categories.

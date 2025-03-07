@@ -17,7 +17,10 @@ Food5-PyTorch
 ![Training Accuracy Results](results.png)
 
 📂 Files
-- 📜 food_classification.ipynb - Google Colab notebook with training code.
-- 📦 model.pth - Pre-trained model weights.
+- 📜 Food5(PyTorch)(Earlier).ipynb - Google Colab notebook with training code (Initial Model).
+- 📜 Food5(PyTorch)(Final).ipynb - Google Colab notebook with training code (Better Model).
+- 📦 model_state_dict(earlier).pth - Pre-trained model weights.
+- 📦 model_state_dict.pth - Pre-trained model weights.
 - 📜 requirements.txt - Dependencies to install.
 - 📂 dataset_sample/ - Example images from the dataset.
+- 📊 Accuracy and loss results visualization.

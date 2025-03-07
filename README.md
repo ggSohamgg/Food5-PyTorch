@@ -12,7 +12,7 @@ Available on Hugging Face: Food Model
 
 📊 Training Results
 Here’s the model's performance over 10 epochs:
-![Training Accuracy Results](original_food_classification_results.png)
+![Training Accuracy Results](results.png)
 
 📂 Files
 📜 food_classification.ipynb - Google Colab notebook with training code.

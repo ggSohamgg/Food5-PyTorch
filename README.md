@@ -9,7 +9,6 @@ This is a deep learning model for food image classification, trained using PyTor
 ## 🚀 Features
 - Uses a **MobileNetV2** model for fast classification.
 - Trained on **5 food categories**.
-- Can be deployed using **Flask/FastAPI**.
 
 ## 📂 Files
 - `food_classification.ipynb` - Colab notebook with training code.

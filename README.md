@@ -8,8 +8,8 @@
 - Available on Hugging Face: **[Food Model](https://huggingface.co/spaces/nnsohamnn/foodmodel)**
 
 ## **🔹 Features**  
-- ✅ Uses MobileNetV2 for fast and efficient classification.  
-- ✅ Trained on 5 food categories.  
+- Uses MobileNetV2 for fast and efficient classification.  
+- Trained on 5 food categories.  
 
 ## **📊 Training Results**  
 - Here’s the model's performance over 10 epochs:  

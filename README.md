@@ -5,6 +5,7 @@
 # 🍔 Food Classification Model
 
 - This is a deep learning model for food image classification, trained using PyTorch on a custom dataset.
+- Dataset: The model is trained on a subset of the Food-101 dataset.
 - Deployment - https://huggingface.co/spaces/nnsohamnn/foodmodel
 
 ## 🚀 Features

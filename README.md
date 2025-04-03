@@ -22,4 +22,6 @@
 - 📦 **model_state_dict.pth** - Pre-trained model weights.  
 - 📜 **requirements.txt** - Dependencies to install.  
 - 📂 **dataset_sample/** - Example images from the dataset.  
-- 📊 **Accuracy and loss results visualization.**  
+- 📊 **Accuracy and loss results visualization.**
+
+  ![](https://komarev.com/ghpvc/?ggSohamgg)
